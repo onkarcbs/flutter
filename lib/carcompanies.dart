@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Car Companies'),
+        title: Text('Car Companies using GitHub Cloning!'),
         backgroundColor: Colors.blue,
         foregroundColor: Colors.white,
         centerTitle: true,
